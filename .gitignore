@@ -5,3 +5,9 @@
 slurm-*.out
 .slurm/
 .bash_history
+
+.vscode-server/
+.vscode/
+.slurm/
+slurm-*.out
+.bash_history
