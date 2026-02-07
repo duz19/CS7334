@@ -1,2 +1,7 @@
 .bash_history
 .slurm/
+.vscode-server/
+.vscode/
+slurm-*.out
+.slurm/
+.bash_history
