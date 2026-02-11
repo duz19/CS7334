@@ -1,0 +1,4 @@
+[pack]
+	threads = 1
+[core]
+	compression = 0
