@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH -J lab1_omp
-#SBATCH -o output.txt
+#SBATCH -o output.o%j
 #SBATCH -p normal
 #SBATCH -N 1
 #SBATCH -n 1
