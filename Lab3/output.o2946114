@@ -1,0 +1,3 @@
+nproc=1, n_per_proc=10, total_n=10
+mean   = 0.4268910689
+stddev = 0.2616686108
