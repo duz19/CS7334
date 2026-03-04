@@ -1,0 +1,9 @@
+Running "module reset". Resetting modules to system default. The following $MODULEPATH directories have been removed: None
+N=10000000
+Policy,Chunk,Time(s)
+static,10,0.013669
+static,100,0.012859
+static,1000,0.013087
+dynamic,10,0.013276
+dynamic,100,0.002746
+dynamic,1000,0.016889

@@ -1,0 +1,11 @@
+Running "module reset". Resetting modules to system default. The following $MODULEPATH directories have been removed: None
+N=10000000
+Threads,Time(s)
+1,0.014143
+2,0.007193
+4,0.003813
+8,0.002374
+16,0.001521
+32,0.001593
+64,0.001920
+128,0.002900

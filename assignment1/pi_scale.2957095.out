@@ -1,0 +1,27 @@
+Running "module reset". Resetting modules to system default. The following $MODULEPATH directories have been removed: None
+N=10000000
+Threads,Time(s)
+
+libgomp: Invalid value for environment variable OMP_PLACES
+1,0.014748
+
+libgomp: Invalid value for environment variable OMP_PLACES
+2,0.007188
+
+libgomp: Invalid value for environment variable OMP_PLACES
+4,0.003975
+
+libgomp: Invalid value for environment variable OMP_PLACES
+8,0.002276
+
+libgomp: Invalid value for environment variable OMP_PLACES
+16,0.001849
+
+libgomp: Invalid value for environment variable OMP_PLACES
+32,0.001435
+
+libgomp: Invalid value for environment variable OMP_PLACES
+64,0.001654
+
+libgomp: Invalid value for environment variable OMP_PLACES
+128,0.003134

@@ -1,0 +1,28 @@
+Running "module reset". Resetting modules to system default. The following $MODULEPATH directories have been removed: None
+
+Lmod is automatically replacing "intel/19.1.1" with "gcc/11.2.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) impi/19.0.9     2) python3/3.9.7
+
+===== core-close =====
+
+libgomp: Invalid value for environment variable OMP_PLACES
+Pi = 3.141592653590
+Time = 0.014402 seconds
+===== core-spread =====
+
+libgomp: Invalid value for environment variable OMP_PLACES
+Pi = 3.141592653590
+Time = 0.002652 seconds
+===== socket-close =====
+
+libgomp: Invalid value for environment variable OMP_PLACES
+Pi = 3.141592653590
+Time = 0.004844 seconds
+===== socket-spread =====
+
+libgomp: Invalid value for environment variable OMP_PLACES
+Pi = 3.141592653590
+Time = 0.002832 seconds
