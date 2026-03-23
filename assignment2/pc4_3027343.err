@@ -1,0 +1,5 @@
+srun: got SIGCONT
+slurmstepd: error: *** JOB 3027343 ON c305-005 CANCELLED AT 2026-03-22T19:41:52 ***
+srun: forcing job termination
+slurmstepd: error: *** STEP 3027343.0 ON c305-005 CANCELLED AT 2026-03-22T19:41:52 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.

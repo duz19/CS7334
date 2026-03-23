@@ -1,0 +1,5 @@
+slurmstepd: error: *** JOB 3027382 ON c305-005 CANCELLED AT 2026-03-22T20:25:40 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 3027382.0 ON c305-005 CANCELLED AT 2026-03-22T20:25:40 DUE TO TIME LIMIT ***
+srun: got SIGCONT
+srun: forcing job termination
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
