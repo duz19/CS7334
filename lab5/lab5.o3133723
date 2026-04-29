@@ -1,0 +1,5 @@
+TACC:  Starting up job 3133723 
+TACC:  Starting parallel tasks... 
+Collective MPI-IO write/read verification passed.
+TACC:  Shutdown complete. Exiting. 
+-rw------- 1 duz19 G-825701 1024 Apr 29 13:27 noncontig.out
