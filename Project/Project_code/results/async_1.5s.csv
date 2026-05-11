@@ -1,0 +1,7 @@
+round,centralized_loss,centralized_acc,train_loss,train_acc,avg_delay_s,bytes_mb,clients_used,failures
+0,2.3002,0.1103,nan,nan,nan,nan,0,0
+1,2.3002,0.1103,nan,nan,nan,nan,0,10
+2,2.3002,0.1103,nan,nan,nan,nan,0,10
+3,2.3002,0.1103,nan,nan,nan,nan,0,10
+4,2.3002,0.1103,nan,nan,nan,nan,0,10
+5,2.3002,0.1103,nan,nan,nan,nan,0,10
